@@ -17,4 +17,4 @@
     "preview": "vite preview"
   }
 }
-fix: add vite dependencies for Vercel
+fix: correct JSON formatting
